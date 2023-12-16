@@ -7,4 +7,11 @@
         <shortDescription>Test1</shortDescription>
         <value>Testing sf demo</value>
     </labels>
+    <labels>
+        <fullName>Test222</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Test222</shortDescription>
+        <value>Testing</value>
+    </labels>
 </CustomLabels>
